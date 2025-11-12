@@ -58,7 +58,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/brunodpl/Data-Analytics.git
+   git clone https://github.com/brunodpl/nuclear_energy_consumption.git
    ```
 2. Install dependencies:
    ```bash
