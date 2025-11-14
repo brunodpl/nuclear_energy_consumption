@@ -50,7 +50,6 @@
 - **GDP-nuclear consumption correlation**: Countries with higher GDP tend to consume more nuclear energy.
 - **ARIMA prediction**: Consumption projection for the next 5 years.
 - **Stationarity**: Time series evaluation for ARIMA modeling.
-- **Predictive models**: Comparison between ARIMA and XGBoost for consumption prediction.
 
 ---
 
@@ -72,10 +71,9 @@
 
 ---
 
-## 📝 Contributions
+## 📝 Data
 
-If you want to contribute, please open an issue or submit a pull request.
-
+https://github.com/owid/energy-data
 ---
 
 ## 📧 Contact
